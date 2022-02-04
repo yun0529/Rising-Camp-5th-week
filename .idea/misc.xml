@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/back_icon.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/button_stroke.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/button_stroke_blue.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/button_stroke_blue_solid.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/check_heart.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/chip_color.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/city_select_icon.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/close_icon.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/close_x_icon.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/close_x_icon_white.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/discount_stroke.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/filter_nukki.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/go_trip_now.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/menu_item_checked_color.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/plan_reserve.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/rating_color.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/ripple_custom.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/rv_divider.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/select_flight_stroke.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/select_flight_stroke2.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/trip_now_stroke.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/user_navi_icon.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/user_navi_icon_white.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/drawable/white_stroke.xml" value="0.378125" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/activity_arrive.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/activity_date.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/activity_flight.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/activity_flight_list.xml" value="0.33" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/activity_go.xml" value="0.3564102564102564" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/activity_trip.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/fragment_city_home.xml" value="0.3564102564102564" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/fragment_cityhome.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/fragment_map.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/fragment_plan.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/fragment_save.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/fragment_tour.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/fragment_trip_tool.xml" value="0.33" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/fragment_visit.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/item_fl.xml" value="0.33" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/item_footer.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/item_footer_list.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/item_header.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/layout/item_tour.xml" value="0.33" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/menu/item_city_home.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/menu/item_trip.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/0529y/Desktop/android/Rising Camp/5week/app/src/main/res/menu/item_trip_tool.xml" value="0.3619791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

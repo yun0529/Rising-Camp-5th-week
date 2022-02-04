@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingStart="25dp"
+    android:paddingEnd="25dp">
+
+    <ImageView
+        android:id="@+id/iv_fl_item_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/air_seoul_icon"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="40dp"/>
+
+    <TextView
+        android:id="@+id/tv_fl_item_time_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="06:00"
+        app:layout_constraintStart_toEndOf="@id/iv_fl_item_logo"
+        app:layout_constraintTop_toTopOf="@id/iv_fl_item_logo"
+        android:textSize="16sp"
+        android:layout_marginStart="5dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/tv_fl_item_time_hyphon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-"
+        app:layout_constraintStart_toEndOf="@id/tv_fl_item_time_start"
+        app:layout_constraintTop_toTopOf="@id/iv_fl_item_logo"
+        android:textSize="16sp"
+        android:layout_marginStart="5dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/tv_fl_item_time_end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="07:05"
+        app:layout_constraintStart_toEndOf="@id/tv_fl_item_time_hyphon"
+        app:layout_constraintTop_toTopOf="@id/iv_fl_item_logo"
+        android:textSize="16sp"
+        android:layout_marginStart="5dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tv_fl_item_go"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GMP"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:alpha="0.5"
+        app:layout_constraintTop_toBottomOf="@id/tv_fl_item_time_start"
+        app:layout_constraintStart_toStartOf="@id/tv_fl_item_time_start"/>
+
+    <TextView
+        android:id="@+id/tv_hyphon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:alpha="0.5"
+        app:layout_constraintStart_toEndOf="@id/tv_fl_item_go"
+        app:layout_constraintTop_toTopOf="@id/tv_fl_item_go"/>
+
+    <TextView
+        android:id="@+id/tv_fl_item_arrive"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CJU"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:alpha="0.5"
+        app:layout_constraintStart_toEndOf="@id/tv_hyphon"
+        app:layout_constraintTop_toTopOf="@id/tv_hyphon"/>
+
+    <TextView
+        android:id="@+id/tv_comma"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=","
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:alpha="0.5"
+        app:layout_constraintStart_toEndOf="@id/tv_fl_item_arrive"
+        app:layout_constraintTop_toTopOf="@id/tv_fl_item_arrive"/>
+
+    <TextView
+        android:id="@+id/tv_fl_item_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="에어서울"
+        android:textSize="13sp"
+        android:alpha="0.5"
+        app:layout_constraintStart_toEndOf="@id/tv_comma"
+        app:layout_constraintTop_toTopOf="@id/tv_comma"/>
+
+    <TextView
+        android:id="@+id/tv_fl_item_howlong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="직항 1시간 5분"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/iv_fl_item_logo"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0.5"
+        android:text="무료수하물 15kg"
+        android:textSize="13sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_fl_item_howlong" />
+
+    <TextView
+        android:id="@+id/tv_fl_item_discount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="할인"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:paddingTop="1dp"
+        android:paddingBottom="1dp"
+        android:background="@drawable/discount_stroke"
+        android:textColor="@color/white"
+        android:textSize="13sp"
+        app:layout_constraintTop_toBottomOf="@id/tv_fl_item_go"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:id="@+id/tv_fl_item_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:text="42,700원"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

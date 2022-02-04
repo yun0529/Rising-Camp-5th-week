@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="도시 홈"
+        android:id="@+id/trip_menu_home"
+        android:icon="@drawable/city_home_icon"
+        android:enabled="true"/>
+
+    <item
+        android:title="일정"
+        android:id="@+id/trip_menu_plan"
+        android:icon="@drawable/plan_icon"
+        android:enabled="true"/>
+
+    <item
+        android:title="여행 도구"
+        android:id="@+id/trip_menu_tool"
+        android:icon="@drawable/trip_tool_icon"
+        android:enabled="true"/>
+
+    <item
+        android:title="저장"
+        android:id="@+id/trip_menu_save"
+        android:icon="@drawable/save_icon"
+        android:enabled="true"/>
+
+</menu>

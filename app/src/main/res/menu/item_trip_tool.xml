@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="bcak"
+        android:id="@+id/trip_tool_back"
+        android:icon="@drawable/back_icon"
+        android:enabled="true"
+        app:showAsAction="always" />
+
+</menu>
